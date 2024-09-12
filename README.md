@@ -1,10 +1,7 @@
 # Trabalho de Automação de Testes utilizando JEST
 
-## GitHub Actions
-
-[![Build and Tests](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml)
-
 ## Inicialização do Projeto
+
 
 Para inicializar o projeto, siga os passos abaixo:
 
