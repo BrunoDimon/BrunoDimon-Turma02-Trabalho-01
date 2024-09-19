@@ -1,24 +1,29 @@
-# JEST Unit Tests
+# Trabalho de Automação de Testes utilizando JEST
 
-## GitHub Actions
+## Inicialização do Projeto
 
-[![Build and Tests](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml)
 
-## SonarCloud
+Para inicializar o projeto, siga os passos abaixo:
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_unit-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_unit-tests-jest)
+1. Instale o [Node.js](https://nodejs.org/) (versão >= 12.x)
+2. Clone o repositório: `git clone https://github.com/BrunoDimon/BrunoDimon-Turma02-Trabalho-01.git`
+3. Navegue até o diretório do projeto: `cd projeto`
+4. Instale as dependências: `npm install`
 
-## Getting Started
+## Executando o Projeto
 
-In order to execute this project you must follow the steps below:
+Para executar o projeto, utilize o comando abaixo: 
+```
+npm run test
+```
 
-1. Install [Node JS](https://nodejs.org/) (version >= 20.x)
-1. Run `npm install` to install all the project dependencies
-1. Run `npm run test` to execute the entire test suite
-1. Run `npm run coverage` to execute the entire test suite with coverage
+Para executar o coverage, utilize o comando abaixo: 
+```
+npm run coverage
+```
 
-All execution artifacts can be found in `./coverage`, if you want to remove these files run `npm run clean`.
 
+<<<<<<< HEAD
 ## Project Structure
 </br>
 <ul>
@@ -28,3 +33,14 @@ All execution artifacts can be found in `./coverage`, if you want to remove thes
 
 
 
+=======
+## Tecnologias Utilizadas
+
+Este projeto utiliza as seguintes tecnologias:
+
+- Node.js: Um ambiente de execução JavaScript
+- Jest: Um framework de testes JavaScript
+- GitHub Actions: Ferramenta de integração contínua e implantação
+
+Sinta-se à vontade para explorar a estrutura do projeto e fazer as modificações necessárias para atender às suas necessidades.
+>>>>>>> 560d657b3d1844cbb71f5cb223f61d7478331fbd
